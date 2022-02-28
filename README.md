@@ -1,2 +1,4 @@
 # JS-WordleUnlimited-Solver
-Solves Wordle Unlimited through logic
+Copy and paste into the console when on wordle unlimited. 
+
+NOTE: This is experimental and doesnt always get the solution. It may take a few attempts. 
